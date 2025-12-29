@@ -1,0 +1,11 @@
+libOpenCL.so
+#N85 add code start
+libmialgoengine.so 64
+libmialgoengine2.so 64
+libcom.xiaomi.pluginutils.so
+libc++_shared.so 64
+libTrueSight.so 64
+libanc_night.so 64
+libmorpho_ImageRefiner.so 64
+libmorpho_ImageRefinerLite.so 64
+#N85 add code  end

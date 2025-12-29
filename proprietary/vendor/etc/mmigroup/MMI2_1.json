@@ -1,0 +1,43 @@
+{
+  "itemConfig": [
+    {
+      "showName": "SimCard_HotPlug"
+    },
+    {
+      "showName": "Sdcard_Intent"
+    },
+    {
+      "showName": "LCD",
+      "paramconfig": {
+        "auto_switch": false,
+        "switch_lcd_mode": true,
+        "lcd_pic": [
+          "1_W255=2000",
+          "2_R255=2000",
+          "3_G255=2000",
+          "4_B255=2000",
+          "5_W64=2000",
+          "6_W0=2000",
+          "7_edgecheck=2000",
+          "8_crosstalk1=2000",
+          "10_W127=2000",
+          "11_sub1dot=2000",
+          "13_guodu=2000",
+          "14_flicker=2000"
+        ]
+      }
+    },
+    {
+      "showName": "TouchScreen"
+    },
+    {
+      "showName": "Proximity"
+    },
+    {
+      "showName": "Sar"
+    },
+    {
+      "showName": "SIMCardTray"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "itemConfig": [
+    {
+      "showName": "SimCard_HotPlug"
+    },
+    {
+      "showName": "Sdcard_Intent"
+    },
+    {
+      "showName": "KeyPad",
+      "paramconfig": {
+        "keyCode": [
+          "VOLUME_UP",
+          "VOLUME_DOWN",
+          "POWER"
+        ]
+      }
+    },
+	{
+      "showName": "TpOpenShort"
+    },
+    {
+      "showName": "LCD",
+      "paramconfig": {
+        "auto_switch": false
+      }
+    },
+    {
+      "showName": "TouchScreen"
+    },
+    {
+      "showName": "MainCamera"
+    },
+    {
+      "showName": "FrontCamera"
+    },
+    {
+      "showName": "LightTEST"
+    },
+    {
+      "showName": "Charge"
+    },
+    {
+      "showName": "WlanAP"
+    },
+    {
+      "showName": "WlanAddress"
+    },
+    {
+      "showName": "BluetoothDevice"
+    },
+    {
+      "showName": "BluetoothAddress"
+    },
+    {
+      "showName": "GPS"
+    },
+    {
+      "showName": "OTG"
+    },
+    {
+      "showName": "Magnetic"
+    },
+    {
+      "showName": "Accelerometer"
+    },
+    {
+      "showName": "Gyroscope"
+    },
+    {
+      "showName": "Hall"
+    },
+	{
+      "showName": "Optical"
+    },
+    {
+      "showName": "Proximity"
+    },
+    {
+      "showName": "TopSpeaker"
+    },
+	{
+      "showName": "BottomSpeaker"
+    },
+    {
+      "showName": "Receiver"
+    },
+    {
+      "showName": "MainMicToHeadPhone"
+    },
+    {
+      "showName": "HeadSet"
+    },
+    {
+      "showName": "FM"
+    },
+    {
+      "showName": "Vibrator",
+      "paramconfig": {
+        "is_auto_vibrate": false
+      }
+    },
+    {
+      "showName": "Sar"
+    },
+    {
+      "showName": "SIMCardTray",
+      "P98816KA1": {
+              "support" : false
+            }
+    }
+  ]
+}

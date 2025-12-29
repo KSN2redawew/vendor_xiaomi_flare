@@ -1,0 +1,22 @@
+{
+  "itemConfig": [
+    {
+      "showName": "Vibrator"
+    },
+	{
+      "showName": "BottomSpeaker"
+    },
+    {
+      "showName": "MainMicToHeadPhone"
+    },
+    {
+      "showName": "HeadSet"
+    },
+    {
+      "showName": "Battery"
+    },
+    {
+      "showName": "OTG"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "mmigroupConfig": {
+    "hideDiskMountUi": true
+  },
+  "systemConfig": {
+    "Attestation": false,
+    "Widewine": false,
+    "IFAA_Version": false,
+    "FIDO_Version": false
+  },
+  "itemConfig": [
+    {
+      "showName": "SimCard_HotPlug"
+    },
+    {
+      "showName": "Sdcard_Intent"
+    },
+    {
+      "showName": "KeyPad",
+      "paramconfig": {
+        "keyCode": [
+          "VOLUME_UP",
+          "VOLUME_DOWN",
+          "POWER"
+        ]
+      }
+    },
+	{
+      "showName": "TpOpenShort"
+    },
+    {
+      "showName": "LCD"
+    },
+    {
+      "showName": "TouchScreen"
+    },
+    {
+      "showName": "MainCamera"
+    },
+    {
+      "showName": "FrontCamera"
+    },
+    {
+      "showName": "LightTEST",
+      "paramconfig": {
+        "Light": [
+          {
+            "type": "flashlight",
+            "name": "MainFlashlight",
+            "id": 0,
+            "method": 1
+          },
+          {
+            "type": "backlight",
+            "name": "Backlight",
+            "brightness": [
+              10,
+              128,
+              255
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "showName": "Charge"
+    },
+    {
+      "showName": "WlanAP"
+    },
+    {
+      "showName": "WlanAddress"
+    },
+    {
+      "showName": "BluetoothDevice"
+    },
+    {
+      "showName": "BluetoothAddress"
+    },
+    {
+      "showName": "GPS"
+    },
+    {
+      "showName": "OTG",
+      "paramconfig": {
+        "support_udisk": true,
+        "is_show_storage": true,
+        "support_typec": true,
+        "support_mouse": true
+      }
+    },
+    {
+      "showName": "Magnetic"
+    },
+    {
+      "showName": "Accelerometer"
+    },
+    {
+      "showName": "Gyroscope"
+    },
+    {
+      "showName": "Hall"
+    },
+    {
+      "showName": "Optical"
+    },
+    {
+      "showName": "Proximity"
+    },
+    {
+      "showName": "TopSpeaker"
+    },
+	{
+      "showName": "BottomSpeaker"
+    },
+    {
+      "showName": "Receiver"
+    },
+    {
+      "showName": "MainMicToHeadPhone"
+    },
+    {
+      "showName": "HeadSet"
+    },
+    {
+      "showName": "FM"
+    },
+    {
+      "showName": "Vibrator"
+    },
+    {
+      "showName": "Sar"
+    },
+    {
+      "showName": "SIMCardTray",
+      "P98816KA1": {
+              "support" : false
+            }
+    }
+  ]
+}
